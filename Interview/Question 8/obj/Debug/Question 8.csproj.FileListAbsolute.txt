@@ -1,0 +1,6 @@
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\bin\Debug\Question 8.exe.config
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\bin\Debug\Question 8.exe
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\bin\Debug\Question 8.pdb
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\obj\Debug\Question 8.csproj.CoreCompileInputs.cache
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\obj\Debug\Question 8.exe
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 8\obj\Debug\Question 8.pdb
