@@ -1,6 +1,0 @@
-C:\Other files\programming\Interview-C-Sharp\Question 3\bin\Debug\Question 3.exe.config
-C:\Other files\programming\Interview-C-Sharp\Question 3\bin\Debug\Question 3.exe
-C:\Other files\programming\Interview-C-Sharp\Question 3\bin\Debug\Question 3.pdb
-C:\Other files\programming\Interview-C-Sharp\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
-C:\Other files\programming\Interview-C-Sharp\Question 3\obj\Debug\Question 3.exe
-C:\Other files\programming\Interview-C-Sharp\Question 3\obj\Debug\Question 3.pdb

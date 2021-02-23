@@ -1,7 +1,0 @@
-C:\Other files\programming\Interview-C-Sharp\Question 2\bin\Debug\Question 2.exe.config
-C:\Other files\programming\Interview-C-Sharp\Question 2\bin\Debug\Question 2.exe
-C:\Other files\programming\Interview-C-Sharp\Question 2\bin\Debug\Question 2.pdb
-C:\Other files\programming\Interview-C-Sharp\Question 2\obj\Debug\Question 2.csprojAssemblyReference.cache
-C:\Other files\programming\Interview-C-Sharp\Question 2\obj\Debug\Question 2.csproj.CoreCompileInputs.cache
-C:\Other files\programming\Interview-C-Sharp\Question 2\obj\Debug\Question 2.exe
-C:\Other files\programming\Interview-C-Sharp\Question 2\obj\Debug\Question 2.pdb

@@ -1,6 +1,0 @@
-C:\Other files\programming\Interview-C-Sharp\Question 4\bin\Debug\Question 4.exe.config
-C:\Other files\programming\Interview-C-Sharp\Question 4\bin\Debug\Question 4.exe
-C:\Other files\programming\Interview-C-Sharp\Question 4\bin\Debug\Question 4.pdb
-C:\Other files\programming\Interview-C-Sharp\Question 4\obj\Debug\Question 4.csproj.CoreCompileInputs.cache
-C:\Other files\programming\Interview-C-Sharp\Question 4\obj\Debug\Question 4.exe
-C:\Other files\programming\Interview-C-Sharp\Question 4\obj\Debug\Question 4.pdb
