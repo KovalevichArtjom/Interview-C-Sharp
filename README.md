@@ -37,3 +37,14 @@ What is the algorithmic complexity for read and write operations for a Dictionar
 
 Answer: 1 <br/>
 **FYI https://habr.com/ru/post/198104/**
+
+## Question 13
+
+What is the difference between the "ref" and "out" keywords?
+
+1. The parameter with the ref keyword may not be initialized, and the parameter with the out keyword<br/> must be initialized before calling the method that uses these parameters.
+2. The parameter with the out keyword may not be initialized, the parameter with the ref keyword must<br/> be initialized before calling the method that uses these parameters.
+3. No difference.
+4. The ref keyword is local to communicate only with value types (value types), and out is local to both<br/> value and reference types. 
+
+Answer: 2 <br/>
