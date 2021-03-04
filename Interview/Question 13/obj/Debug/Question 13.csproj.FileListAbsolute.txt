@@ -1,0 +1,7 @@
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\bin\Debug\Question 13.exe.config
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\bin\Debug\Question 13.exe
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\bin\Debug\Question 13.pdb
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\obj\Debug\Question 13.csprojAssemblyReference.cache
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\obj\Debug\Question 13.csproj.CoreCompileInputs.cache
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\obj\Debug\Question 13.exe
+C:\Other files\programming\Interview-C-Sharp\Interview\Question 13\obj\Debug\Question 13.pdb
