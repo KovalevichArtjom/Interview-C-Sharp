@@ -48,3 +48,18 @@ What is the difference between the "ref" and "out" keywords?
 4. The ref keyword is local to communicate only with value types (value types), and out is local to both<br/> value and reference types. 
 
 Answer: 2 <br/>
+
+## Question 15 
+What is the difference between optional and named parametrs?
+
+Answer: Optional parametrs allow you to omit function arguments, while named parametrs allow you to pass arguments by parametre name.
+
+## Question 16
+How are the String and StringBuilder classes different from each other?Why is this separation necessary?
+
+Answer: An object of the String class is an immutable string. Whenever a method of the String class is executed, the system creates a new object in memory and allocates enough space for it. An object of the StringBuilder class is a dynamic string. When creating a string, the StringBuilder allocates more memory than is needed for this string, and adding any elements to it does not recreate the string. In the event that the allocated memory is not enough to add new elements, then the capacity of the object will be increased.
+
+## Question 17
+What is the difference between value and reference types?
+
+Answer: value types are stored on the stack. A stack is a data structure that grows from bottom to top: each new item is pushed on top of the previous one. The lifetime of these types of variables is limited by their context. Physically, a stack is a certain area of memory in the address space. And reference types are stored on the heap, which is another area of memory that can be thought of as an unordered collection of different objects. When an object of a reference type is created on the stack, a reference to an address on the heap is pushed. When this object is no longer in use, the reference is destroyed and the memory on the heap is cleared. 
